@@ -11,14 +11,12 @@ useful tools.
 Set up professional profiles on Kaggle, ResearchGate and LinkedIn.
 ### Task 3: Platforms Exploration
 Solved coding problems on HackerRank and created a Google Form quiz.
-Link-https://docs.google.com/forms/d/e/1FAIpQLSfG0qfsby_JL8TiSadiB8txTVNgub9fLENBbpz8tWo7aMdtlg/viewform?usp=publish-editor
 ### Task 4: Email Etiquette
 Drafted professional emails and created social media guidelines.
 ### Task 5: Cybercrime Awareness
 Created a case study and a prevention checklist.
 ## Google Form Link
-https://docs.google.com/forms/d/e/1FAIpQLSfG0qfsby_JL8TiSadiB8txTVNgub9fLENBbpz8t
-Wo7aMdtlg/viewform?usp=publish-editor
+Link-https://docs.google.com/forms/d/e/1FAIpQLSfG0qfsby_JL8TiSadiB8txTVNgub9fLENBbpz8tWo7aMdtlg/viewform?usp=publish-editor
 ## Tools Used
 - Canva
 - GitHub
